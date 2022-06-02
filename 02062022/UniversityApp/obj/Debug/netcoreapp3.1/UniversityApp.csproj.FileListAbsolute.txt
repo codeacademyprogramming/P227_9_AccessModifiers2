@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\bin\Debug\netcoreapp3.1\UniversityApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\16. 02-06-2022\02062022\UniversityApp\obj\Debug\netcoreapp3.1\UniversityApp.genruntimeconfig.cache

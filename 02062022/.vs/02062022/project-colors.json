@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58162f49-238b-4125-b5bf-88016bad3482": {
+      "ProjectGuid": "58162f49-238b-4125-b5bf-88016bad3482",
+      "DisplayName": "Homework",
+      "ColorIndex": 0
+    },
+    "ec855fcd-cf5d-48e8-a5d3-6dd272a774e2": {
+      "ProjectGuid": "ec855fcd-cf5d-48e8-a5d3-6dd272a774e2",
+      "DisplayName": "UniversityApp",
+      "ColorIndex": 1
+    },
+    "a1e989fa-bccc-4021-9d7f-db37993d9fa8": {
+      "ProjectGuid": "a1e989fa-bccc-4021-9d7f-db37993d9fa8",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
